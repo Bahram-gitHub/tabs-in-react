@@ -1,0 +1,2 @@
+- In this project, we familiar with creating tabs in react.
+- we use API of course to get our data
